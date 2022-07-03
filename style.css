@@ -131,11 +131,20 @@ label{
         width: 100%;
     }
 
+    .checkout-inner-right{
+        margin-left: 0;
+    }
+
+    .submit-btn{
+        width: 100%;
+    }
+
     .checkout-right{
         padding: 10px;
         order: 1;
         width: 100%;
-        margin: 10px 0px;
+        margin-top: 30px;
+        margin-left: 0;
     }
 
 }
