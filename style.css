@@ -128,6 +128,7 @@ label{
 
     .checkout-inner-left input, .checkout-inner-right input{
         padding: 5px;
+        width: 100%;
     }
 
     .checkout-right{
